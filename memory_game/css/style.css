@@ -1,6 +1,7 @@
 body {
 text-align: center;
 margin: 0;
+border: 0;
 }
 header{
 	background-color: #F15B31;
@@ -73,6 +74,10 @@ footer {
 	font-size: 14px;
 	letter-spacing: .08em;
 	font-weight: 500;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
 }
 .copyright {
 	font-family: "Raleway", sans-serif;
